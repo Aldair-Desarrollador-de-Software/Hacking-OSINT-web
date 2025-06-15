@@ -8,6 +8,7 @@ pip3 install dnstwist
 python -m playwright install
 pip install requests beautifulsoup4 ipwhois tldextract playwright
 playwright install
+pip install requests beautifulsoup4
 
 Pide una URL al usuario.
 Obtiene info de IP y WHOIS del dominio.
