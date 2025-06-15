@@ -6,6 +6,16 @@ pip3 install dnstwist
 sudo apt-get install dnstwist
 pip3 install dnstwist
 python -m playwright install
+Pide una URL al usuario.
+
+Obtiene info de IP y WHOIS del dominio.
+Saca datos del servidor web y tecnologías usadas.
+Busca subdominios y variaciones con dnstwist.
+Rastrea la web para listar archivos comunes.
+Detecta directorios con "Index of" en rutas típicas.
+Muestra búsquedas Google Dork para encontrar más "Index of" basados en el dominio.
+Imprime toda la información ordenada en consola.
+
 ![Captura01](https://github.com/user-attachments/assets/62b4c884-055f-4947-ac0c-0724bc4fed80)
 ![Captura02](https://github.com/user-attachments/assets/7f51ab13-7751-4131-be8f-8dbf23aec5d8)
 ![Captura03](https://github.com/user-attachments/assets/a0084812-27d6-468d-8e4b-6827ea602407)
