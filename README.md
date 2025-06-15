@@ -6,8 +6,10 @@ pip3 install dnstwist
 sudo apt-get install dnstwist
 pip3 install dnstwist
 python -m playwright install
-Pide una URL al usuario.
+pip install requests beautifulsoup4 ipwhois tldextract playwright
+playwright install
 
+Pide una URL al usuario.
 Obtiene info de IP y WHOIS del dominio.
 Saca datos del servidor web y tecnologías usadas.
 Busca subdominios y variaciones con dnstwist.
